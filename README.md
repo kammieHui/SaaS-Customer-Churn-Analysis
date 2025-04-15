@@ -1,6 +1,6 @@
 # 📉 SaaS Customer Churn Analysis Dashboard
 
-A Power BI dashboard project analyzing churn patterns for a subscription-based telecom service. Built using a public dataset with ~7,000 customer records.
+A Power BI dashboard project analyzing churn patterns for a subscription-based telecom service. Built using a public dataset with near 7,000 customer records.
 
 ---
 
@@ -13,7 +13,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 ## 🗂️ Dataset Information
 
 - **Source**: [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
-- **Size**: ~7,000 rows
+- **Size**: 7,043 rows x 21 columns
 - **Timeframe**: Historical (no date column included)
 - **Target Variable**: `Churn` (Yes/No)
 
