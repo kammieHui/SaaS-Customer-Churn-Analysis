@@ -28,11 +28,10 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 ## 🎯 KPIs (DAX Measures)
 
 - Total Customers
-- Churned Customers
+- Total Revenue
 - Churn Rate (%)
 - Avg Monthly Charges
-- Churned Revenue
-- Revenue Loss %
+- Median Tenure(Mths) 
 
 ---
 
@@ -40,22 +39,30 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 
 | Visual | Description |
 |--------|-------------|
-| 📊 Bar Chart | Churn Rate by Contract Type |
 | 🔁 Donut Chart | Churned vs Non-Churned Customers |
-| 📈 Line Chart | Churn Rate by Tenure Group |
-| 🧾 Table | Churned Revenue by Payment Method |
-| 📍 Map (optional) | Churn by Region (if you simulate location) |
-| 🧠 Tooltip Page | Customer segment details (MonthlyCharges, Tenure, Services Used) |
+| 📊 Bar Chart | Revenue Loss by Churn|
+| 📊 Bar Chart | Contract Type of Churn|
+| 📊 Bar Chart | Tenure Length of Churn|
+| 📊 Bar Chart | Payment and Billing Preference for Churned Customers |
+| 🔁 Donut Chart | Churned Customers Demographic|
+| 🔁 Donut Chart | Services Churned|
+| 🧠 Tooltip Page| Key Insights |
 
 ---
 
 ## 🔍 Key Insights (To Be Filled After Analysis)
 
-- Customers on **month-to-month** contracts churn more than long-term plans.
-- Customers using **electronic checks** are more likely to churn than those using credit cards.
-- Higher **monthly charges** combined with **no online security** leads to higher churn.
+**🧠 No Dependents = Higher Churn:**
+- Only 17% of churned customers have dependents.
 
-*(Add more as you analyze)*
+**📉 Tenure < 6 Months = Risk Zone:**
+- 42% of churn happens within first 6 months.
+
+**🧬Non Senior Citizens = Higher Churn:**
+- Around 75% of churn are non-Senior Citizens.
+
+**💸 Electronic Check = Risky:**
+- Nearly 46% of churned customers paid via electronic check.
 
 ---
 
@@ -63,7 +70,6 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 
 - Power BI
 - DAX
-- Excel (for raw data)
 - Optional: Python (for additional cohort or ML work)
 
 ---
