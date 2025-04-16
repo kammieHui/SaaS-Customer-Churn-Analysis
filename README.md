@@ -76,7 +76,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 
 ## 📁 Files
 
-- [Power_BI_File](Power BI/SaaS Customer Churn Analysis.pbix)
+- [Power BI File](power_bi/SaaS Customer Churn Analysis.pbix)
 - [Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - `dashboard_preview.png`
 - `README.md`
