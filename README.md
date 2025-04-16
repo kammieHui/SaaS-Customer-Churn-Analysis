@@ -83,10 +83,3 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 ![Dashboard Preview](images/dashboard_overview.png)
 ---
 
-## 📚 Learnings (Optional)
-
-- Practiced DAX to calculate churn, revenue loss, and segment behavior.
-- Improved dashboard layout planning for stakeholder communication.
-- Learned to interpret churn metrics in the context of business operations.
-
----
