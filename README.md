@@ -59,7 +59,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 - 42% of churn happens within first 6 months.
 
 **🧬Non Senior Citizens = Higher Churn:**
-- Around 75% of churn are non-Senior Citizens.
+- Around 75% of churn are non-Senior Citizens. 
 
 **💸 Electronic Check = Risky:**
 - Nearly 46% of churned customers paid via electronic check.
