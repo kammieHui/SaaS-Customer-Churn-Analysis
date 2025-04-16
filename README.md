@@ -77,7 +77,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 ## 📁 Files
 
 - `Telco_Churn_Analysis.pbix`
-- `telco_customer_churn.csv`
+- [Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - `dashboard_preview.png`
 - `README.md`
 
