@@ -70,8 +70,6 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 
 - Power BI
 - DAX
-- Optional: Python (for additional cohort or ML work)
-
 ---
 
 ## 📁 Files
