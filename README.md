@@ -50,7 +50,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 
 ---
 
-## 🔍 Key Insights (To Be Filled After Analysis)
+## 🔍 Key Insights
 
 **🧠 No Dependents = Higher Churn:**
 - Only 17% of churned customers have dependents.
