@@ -82,6 +82,7 @@ Understand which customer profiles are most likely to churn, and uncover key dri
 - `dashboard_preview.png`
 - `README.md`
 
+![Dashboard Preview](images/dashboard_overview.png)
 ---
 
 ## 📚 Learnings (Optional)
